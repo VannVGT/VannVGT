@@ -13,15 +13,14 @@
 - 🎓 Soy estudiante 
 - 💻 Estudiante de ciberseguridad 
 - 🌱 En la búsqueda de prácticas socioambientales sostenibles 
-src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/)
 
-<h3 align="left"> 📫 Me puedes encontrar en:</h3>
+
+<h2 align="left"> 📫 Me puedes encontrar en:</h2>
 <p align="left">
   
 
 </p>
 <br>
-
         
 
 <h2>Herramientas utilizadas</h2>
