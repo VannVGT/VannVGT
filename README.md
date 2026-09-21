@@ -8,7 +8,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Acerca de mi:
 
 - 🎓 Soy estudiante 
 - 💻 Estudiante de ciberseguridad 
