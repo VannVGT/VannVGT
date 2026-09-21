@@ -3,16 +3,16 @@
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  ¡Hola! Mi nombre es Vanessa Valderrama actualmente soy una estudiante apasionada en el área STEM. Mis principales intereses están en la ciberseguridad, análisis de datos y desarrollo web, con un enfoque con inteligencia artificial. Mi aprendizaje continuo esta orientado a tener un impacto social.
+  ¡Hola! Mi nombre es Vanessa Valderrama actualmente soy una estudiante apasionada en el área STEM. Mis principales intereses están en la ciberseguridad, análisis de datos y desarrollo web, con un enfoque en inteligencia artificial. Mi aprendizaje continuo esta orientado a tener un impacto social.
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Acerca de mi:
 
-- 🎓 Estudiante de ciberseguridad 
-- 💻 Apasionada por la tecnología
-- 🌱 En la búsqueda de prácticas socioambientales sostenibles 
+- 🎓 Estudiante de ciberseguridad.
+- 💻 Apasionada por la tecnología.
+- 🌱 En la búsqueda de prácticas socioambientales sostenibles.
 
 
 <h2 align="left"> Herramientas utilizadas:</h2>
@@ -24,7 +24,9 @@
 <br>
         
 
-<h2>📫 Me puedes encontrar en:</h2>
+<h2 align="left"> Me puedes encontrar en:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/vanessa-valderrama-gutierrez-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 
 
