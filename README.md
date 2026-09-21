@@ -17,7 +17,8 @@
 
 <h2 align="left"> 📫 Me puedes encontrar en:</h2>
 <p align="left">
-  
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,github,html,linux,mysql,kubernetes&perline=14" />
+
 
 </p>
 <br>
