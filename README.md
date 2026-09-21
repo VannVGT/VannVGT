@@ -17,7 +17,7 @@
 
 <h2 align="left"> Herramientas utilizadas:</h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,github,html,linux,mysql,=14" />
+    <img src="https://skillicons.dev/icons?i=discord,figma,firebase,github,html,linux=14" />
 
 
 </p>
