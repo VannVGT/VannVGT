@@ -1,9 +1,9 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hola+!;+Soy+Vanessa+;Bievenidos+a+mi+perfil+de+Github" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=¡+Hola+!;+Soy+Vanessa+;Bievenidos+a+mi+perfil+de+Github" alt="Typing SVG" /></a>
 </h1>
 <br>
 <p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  ¡Hola! Mi nombre es Vanessa Valderrama actualmente soy una estudiante apasionada en el área STEM. Mis principales intereses están en la ciberseguridad, análisis de datos y desarrollo web, con un enfoque en inteligencia artificial. Mi aprendizaje continuo esta orientado a tener un impacto social.
+¡Hola! Mi nombre es Vanessa Valderrama actualmente soy una estudiante apasionada en el área STEM. Mis principales intereses están en la ciberseguridad, análisis de datos y desarrollo web, con un enfoque en inteligencia artificial. Mi aprendizaje continuo esta orientado a tener un impacto social.
 </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
